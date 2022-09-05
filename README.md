@@ -1,11 +1,11 @@
-[![MasterHead](https://i.imgur.com/i0tbfVR.png)](www.sorugelsin.me)
+<p align="center">[![MasterHead](https://i.imgur.com/i0tbfVR.png)](www.sorugelsin.me)</p>
 
 <h1 align="center">Hi 👋, I'm BD911-Coder</h1>
 <h3 align="center">A backend, frontend and iOS & Android developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bd911-coder&label=Profile%20views&color=0e75b6&style=flat" alt="bd911-coder" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bd911-coder&label=Profile%20views&color=0e75b6&style=flat" alt="bd911-coder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bd911-coder" alt="bd911-coder" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bd911-coder" alt="bd911-coder" /></a> </p>
 
 
 - 🔭 I’m currently working on [Stopwatch UI with Flutter & Dart](https://github.com/BD911-Coder/stop_watch_ui_with_flutter)
