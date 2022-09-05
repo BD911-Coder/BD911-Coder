@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/i0tbfVR.png)](www.sorugelsin.me)
+<p align="center"> <img src="https://i.imgur.com/i0tbfVR.png)]" alt="bd911-coder" /> </p>
 
 <h1 align="center">Hi 👋, I'm BD911-Coder</h1>
 <h3 align="center">A backend, frontend and iOS & Android developer from Turkey</h3>
